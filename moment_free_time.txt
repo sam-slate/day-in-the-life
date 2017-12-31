@@ -1,0 +1,78 @@
+##EventsName##
+moment_free_time
+##NumEvents##
+1
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+You have a moment of free time to help you feel better! What would you like to do?
+//E1-NumOptions//
+4
+**E1O1-Name**
+Take Ibuprofen
+**E1O1-Description**
+Ibuprofen can help with the pain! It also costs some money though.
+**E1O1-ChangePain**
+5
+**E1O1-ChangeSpoons**
+0
+**E101-ChangeMoney**
+-5
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+-1
+**E1O2-Name**
+Call Mom or Dad
+**E1O2-Description**
+They always knows what to say to make you feel better :)
+**E1O2-ChangePain**
+0
+**E1O2-ChangeSpoons**
+5
+**E102-ChangeMoney**
+0
+**E102-RandomBool**
+0
+**E102-RandomPercentage**
+50
+**E102-NextID**
+-1
+**E1O3-Name**
+Call your partner
+**E1O3-Description**
+Talking to them always helps! They are a blessing in your life :) 
+**E1O3-ChangePain**
+0
+**E1O3-ChangeSpoons**
+5
+**E103-ChangeMoney**
+0
+**E103-RandomBool**
+0
+**E103-RandomPercentage**
+50
+**E103-NextID**
+-1
+**E1O4-Name**
+Lie on the bed for a hot sec
+**E1O4-Description**
+Some rest on your bed will help a smidge.
+**E1O4-ChangePain**
+3
+**E1O4-ChangeSpoons**
+0
+**E104-ChangeMoney**
+0
+**E104-RandomBool**
+0
+**E104-RandomPercentage**
+50
+**E104-NextID**
+-1

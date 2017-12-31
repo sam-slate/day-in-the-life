@@ -1,0 +1,514 @@
+##EventsName##
+doctor
+##NumEvents##
+11
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+Time for a doctor's appointment! Where is this one located again? 
+//E1-NumOptions//
+3
+**E1O1-Name**
+Harvard Square
+**E1O1-Description**
+Nice!
+**E1O1-ChangePain**
+0
+**E1O1-ChangeSpoons**
+0
+**E101-ChangeMoney**
+0
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+8
+**E1O2-Name**
+Arlington Center
+**E1O2-Description**
+ 
+**E1O2-ChangePain**
+0
+**E1O2-ChangeSpoons**
+0
+**E102-ChangeMoney**
+0
+**E102-RandomBool**
+0
+**E102-RandomPercentage**
+50
+**E102-NextID**
+9
+**E1O3-Name**
+Somewhere far away
+**E1O3-Description**
+ 
+**E1O3-ChangePain**
+0
+**E1O3-ChangeSpoons**
+0
+**E103-ChangeMoney**
+0
+**E103-RandomBool**
+0
+**E103-RandomPercentage**
+50
+**E103-NextID**
+10
+//E2-ID//
+8
+//E2-RandomBool//
+0
+//E2-Name//
+8
+//E2-Message//
+How should we get there?
+//E2-NumOptions//
+2
+**E2O1-Name**
+Take the bus
+**E2O1-Description**
+Sounds good! The buses are notoriously sparse and late, so let's take 5 spoons away just for  scheduling and planning it. It also costs a bit of money.
+**E2O1-ChangePain**
+0
+**E2O1-ChangeSpoons**
+-5
+**E201-ChangeMoney**
+-2
+**E201-RandomBool**
+0
+**E201-RandomPercentage**
+20
+**E201-NextID**
+16
+**E2O2-Name**
+Take an uber
+**E2O2-Description**
+You don't have to feel pain but it costs you money. Also, you feel super guilty about the unethical policies of the company but it's the only way you as a disabled person can reliably get around without a car. 
+**E2O2-ChangePain**
+0
+**E2O2-ChangeSpoons**
+-5
+**E202-ChangeMoney**
+-10
+**E202-RandomBool**
+0
+**E202-RandomPercentage**
+50
+**E202-NextID
+516
+//E3-ID//
+9
+//E3-RandomBool//
+0
+//E3-Name//
+9
+//E3-Message//
+How should we get there?
+//E3-NumOptions//
+2
+**E3O1-Name**
+Take the bus
+**E3O1-Description**
+Sounds good! The buses are notoriously sparse and late, so let's take 5 spoons away just for  scheduling and planning it. It also costs a bit of money.
+**E3O1-ChangePain**
+0
+**E3O1-ChangeSpoons**
+-5
+**E301-ChangeMoney**
+-2
+**E301-RandomBool**
+0
+**E301-RandomPercentage**
+20
+**E301-NextID**
+18
+**E3O2-Name**
+Take an uber
+**E3O2-Description**
+You don't have to feel pain but it costs you money. Also, you feel super guilty about the unethical policies of the company but it's the only way you as a disabled person can reliably get around without a car. 
+**E3O2-ChangePain**
+0
+**E3O2-ChangeSpoons**
+-5
+**E302-ChangeMoney**
+-10
+**E302-RandomBool**
+0
+**E302-RandomPercentage**
+50
+**E302-NextID
+516
+//E4-ID//
+10
+//E4-RandomBool//
+0
+//E4-Name//
+10
+//E4-Message//
+How should we get there?
+//E4-NumOptions//
+2
+**E4O1-Name**
+Ask a friend/parent for a ride
+**E4O1-Description**
+Because people love you, they are willing to help you with your disability. It takes a huge mental toll though to reach out for help from the people you love, especially when you worry about burdening them. 
+**E4O1-ChangePain**
+0
+**E4O1-ChangeSpoons**
+-10
+**E401-ChangeMoney**
+0
+**E401-RandomBool**
+0
+**E401-RandomPercentage**
+50
+**E401-NextID**
+516
+**E4O2-Name**
+Take an uber
+**E4O2-Description**
+You don't have to feel pain but it costs you money. Also, you feel super guilty about the unethical policies of the company but it's the only way you as a disabled person can reliably get around without a car. 
+**E4O2-ChangePain**
+0
+**E4O2-ChangeSpoons**
+-5
+**E402-ChangeMoney**
+-20
+**E402-RandomBool**
+0
+**E402-RandomPercentage**
+50
+**E402-NextID**
+516
+//E5-ID//
+16
+//E5-RandomBool//
+0
+//E5-Name//
+16
+//E5-Message//
+Time to get on the bus! Do you have the bus driver lower the bus?
+//E5-NumOptions//
+2
+**E5O1-Name**
+Yes
+**E5O1-Description**
+Great, now you can step on easily. It takes a lot to explain to the driver though why you need it lowered, espcially since you are not visably disabled. 
+**E5O1-ChangePain**
+-3
+**E5O1-ChangeSpoons**
+0
+**E501-ChangeMoney**
+0
+**E501-RandomBool**
+0
+**E501-RandomPercentage**
+50
+**E501-NextID**
+32
+**E5O2-Name**
+No
+**E5O2-Description**
+Alright, you'll have to take a big step up though, which hurts. 
+**E5O2-ChangePain**
+0
+**E5O2-ChangeSpoons**
+-5
+**E502-ChangeMoney**
+0
+**E502-RandomBool**
+0
+**E502-RandomPercentage**
+50
+**E502-NextID**
+32
+//E6-ID//
+18
+//E6-RandomBool//
+1
+//E6-Name//
+18
+//E6-Message//
+Is the bus to Arlington coming soon? Let's roll the dice!
+//E6-NumOptions//
+2
+**E6O1-Name**
+It arrived right when we showed up
+**E6O1-Description**
+Awesome! Since there are no benches nearby any bus stop for the Arlington bus at Tufts, you would have had to stand. Dodged a bullet there!
+**E6O1-ChangePain**
+0
+**E6O1-ChangeSpoons**
+0
+**E601-ChangeMoney**
+0
+**E601-RandomBool**
+1
+**E601-RandomPercentage**
+30
+**E601-NextID**
+16
+**E6O2-Name**
+It will be a while :( 
+**E6O2-Description**
+Since there are no benches nearby any bus stop for the Arlington bus at Tufts, you will have to stand to wait. Sucks to be you!
+**E6O2-ChangePain**
+-5
+**E6O2-ChangeSpoons**
+0
+**E602-ChangeMoney**
+0
+**E602-RandomBool**
+1
+**E602-RandomPercentage**
+70
+**E602-NextID**
+16
+//E7-ID//
+32
+//E7-RandomBool//
+0
+//E7-Name//
+32
+//E7-Message//
+Do you ask for the driver to wait until you sit down before they start driving?
+//E7-NumOptions//
+2
+**E7O1-Name**
+Yes
+**E7O1-Description**
+They say yes and wait, which is nice and means you won't be swept off your feet as the bus starts. But it's another things you have to ask for and explain. 
+**E7O1-ChangePain**
+0
+**E7O1-ChangeSpoons**
+-5
+**E701-ChangeMoney**
+0
+**E701-RandomBool**
+0
+**E701-RandomPercentage**
+50
+**E701-NextID**
+64
+**E7O2-Name**
+No
+**E7O2-Description**
+The bus driver then takes off as you are still walking, causing you to lose balance and feel quite a bit of pain. 
+**E7O2-ChangePain**
+-10
+**E7O2-ChangeSpoons**
+0
+**E702-ChangeMoney**
+0
+**E702-RandomBool**
+0
+**E702-RandomPercentage**
+50
+**E702-NextID**
+64
+//E8-ID//
+64
+//E8-RandomBool//
+1
+//E8-Name//
+64
+//E8-Message//
+Wait, is there even a seat? Let's roll the dice! 
+//E8-NumOptions//
+2
+**E8O1-Name**
+There is a seat!
+**E8O1-Description**
+Thank god, or else you would have had to either ask for a seat or stand and bear the pain.
+**E8O1-ChangePain**
+0
+**E8O1-ChangeSpoons**
+0
+**E801-ChangeMoney**
+0
+**E801-RandomBool**
+1
+**E801-RandomPercentage**
+50
+**E801-NextID**
+516
+**E8O2-Name**
+No seats left :( 
+**E8O2-Description**
+Uh-oh
+**E8O2-ChangePain**
+0
+**E8O2-ChangeSpoons**
+0
+**E802-ChangeMoney**
+0
+**E802-RandomBool**
+1
+**E802-RandomPercentage**
+50
+**E802-NextID**
+129
+//E9-ID//
+129
+//E9-RandomBool//
+0
+//E9-Name//
+129
+//E9-Message//
+Now, do you ask someone for a seat or stand and bear the pain?
+//E9-NumOptions//
+2
+**E9O1-Name**
+Ask for a seat
+**E9O1-Description**
+Good job, you got one! It's super stressful though to go up to a stranger and ask for a seat when you are not visably disabled. At least you avoided the pain though.
+**E9O1-ChangePain**
+0
+**E9O1-ChangeSpoons**
+-10
+**E901-ChangeMoney**
+0
+**E901-RandomBool**
+0
+**E901-RandomPercentage**
+50
+**E901-NextID**
+516
+**E9O2-Name**
+Stand and bear the pain
+**E9O2-Description**
+Oh no, that one is going to hurt. At least you avoided the embarresment of asking for a seat.
+**E9O2-ChangePain**
+-10
+**E9O2-ChangeSpoons**
+0
+**E902-ChangeMoney**
+0
+**E902-RandomBool**
+0
+**E902-RandomPercentage**
+50
+**E902-NextID**
+516
+//E10-ID//
+516
+//E10-RandomBool//
+1
+//E10-Name//
+516
+//E10-Message//
+You made it to the doctor! Now, let's roll the dice on the copay. 
+//E10-NumOptions//
+2
+**E10O1-Name**
+$25 
+**E10O1-Description**
+You got lucky, this one is only for $25. Sometimes they are $50. 
+**E10O1-ChangePain**
+0
+**E10O1-ChangeSpoons**
+0
+**E1001-ChangeMoney**
+-25
+**E1001-RandomBool**
+1
+**E1001-RandomPercentage**
+50
+**E1001-NextID**
+1032
+**E10O2-Name**
+$50
+**E10O2-Description**
+Oof, tough luck, this appointment has a $50 copay. 
+**E10O2-ChangePain**
+0
+**E10O2-ChangeSpoons**
+0
+**E1002-ChangeMoney**
+-50
+**E1002-RandomBool**
+1
+**E1002-RandomPercentage**
+50
+**E1002-NextID**
+1032
+//E10-ID//
+1032
+//E10-RandomBool//
+1
+//E10-Name//
+1032
+//E10-Message//
+Alright, the appointment is over. Let's roll the dice on how it went? 
+//E10-NumOptions//
+4
+**E11O1-Name**
+Body feels good, mind feels good 
+**E11O1-Description**
+Nice, everything went well! Kind of a rarity these days. 
+**E11O1-ChangePain**
+5
+**E11O1-ChangeSpoons**
+5
+**E1101-ChangeMoney**
+0
+**E1101-RandomBool**
+1
+**E1101-RandomPercentage**
+25
+**E1101-NextID**
+-1
+**E11O2-Name**
+Body feels good, mind feels blegh.
+**E11O2-Description**
+The appointment probably left you discouraged, although your body might be feeling ok right now.
+**E11O2-ChangePain**
+0
+**E11O2-ChangeSpoons**
+-5
+**E1102-ChangeMoney**
+0
+**E1102-RandomBool**
+1
+**E1102-RandomPercentage**
+25
+**E1102-NextID**
+-1
+**E11O3-Name**
+Body feels bad, mind feels good.
+**E11O3-Description**
+There might be pain but something about the appointment made you hopeful!
+**E11O3-ChangePain**
+-5
+**E11O3-ChangeSpoons**
+5
+**E1103-ChangeMoney**
+0
+**E1103-RandomBool**
+1
+**E1103-RandomPercentage**
+25
+**E1103-NextID**
+-1
+**E11O4-Name**
+Body feels bad, mind feels bad.
+**E11O4-Description**
+Not only was the appointment upsetting, but your body feels worse after.
+**E11O4-ChangePain**
+-5
+**E11O4-ChangeSpoons**
+-5
+**E1104-ChangeMoney**
+0
+**E1104-RandomBool**
+1
+**E1104-RandomPercentage**
+25
+**E1104-NextID**
+-1

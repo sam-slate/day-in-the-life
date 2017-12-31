@@ -1,0 +1,256 @@
+##EventsName##
+meal
+##NumEvents##
+6
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+Food time! Do you want to cook or buy something?
+//E1-NumOptions//
+2
+**E1O1-Name**
+Cook for myself
+**E1O1-Description**
+Hmm, let's see if the kitchen is clean!
+**E1O1-ChangePain**
+0
+**E1O1-ChangeSpoons**
+0
+**E101-ChangeMoney**
+0
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+8
+**E1O2-Name**
+Buy something
+**E1O2-Description**
+You still have to walk to get to the food, but at least it's not cooking. 
+**E1O2-ChangePain**
+-5
+**E1O2-ChangeSpoons**
+0
+**E102-ChangeMoney**
+0
+**E102-RandomBool**
+0
+**E102-RandomPercentage**
+50
+**E102-NextID**
+9
+//E2-ID//
+8
+//E2-RandomBool//
+1
+//E2-Name//
+8
+//E2-Message//
+Roll the dice on the cleanliness of the kitchen
+//E2-NumOptions//
+2
+**E2O1-Name**
+It's clean!
+**E2O1-Description**
+Wow thank god! Now you can cook. It still takes takes time on your feet and moving around, but you get the satisfaction from it. 
+**E2O1-ChangePain**
+-10
+**E2O1-ChangeSpoons**
+5
+**E201-ChangeMoney**
+0
+**E201-RandomBool**
+1
+**E201-RandomPercentage**
+50
+**E201-NextID**
+-1
+**E2O2-Name**
+Not clean at all.
+**E2O2-Description**
+Now you've got to clean up first, then cook, then clean again which takes a lot of time on your feet. You don't get that satisfaction from cooking either, just frustration. 
+**E2O2-ChangePain**
+-15
+**E2O2-ChangeSpoons**
+0
+**E202-ChangeMoney**
+0
+**E202-RandomBool**
+1
+**E202-RandomPercentage**
+50
+**E202-NextID
+-1
+//E3-ID//
+9
+//E3-RandomBool//
+0
+//E3-Name//
+9
+//E3-Message//
+Are we eating somewhere that requires standing up at any point of the process? For example, ordering food and wating to check out at Hodgdon, waiting in line at the Kosher Deli, waiting to swipe in at Carm or Dewick, waiting in line at any of the cafes, waiting for food to be prepared at the commons, etc.
+//E3-NumOptions//
+2
+**E3O1-Name**
+Of course, everywhere you go to eat requires standing
+**E3O1-Description**
+Oh great.
+**E3O1-ChangePain**
+0
+**E3O1-ChangeSpoons**
+0
+**E301-ChangeMoney**
+0
+**E301-RandomBool**
+0
+**E301-RandomPercentage**
+50
+**E301-NextID**
+18
+**E3O2-Name**
+Nope, I found the one magical place that allows me to sit down during every part of the process!
+**E3O2-Description**
+
+**E3O2-ChangePain**
+0
+**E3O2-ChangeSpoons**
+0
+**E302-ChangeMoney**
+0
+**E302-RandomBool**
+0
+**E302-RandomPercentage**
+50
+**E302-NextID**
+72
+//E4-ID//
+18
+//E4-RandomBool//
+0
+//E4-Name//
+18
+//E4-Message//
+Do you ask for help in sitting?
+//E4-NumOptions//
+2
+**E4O1-Name**
+Yes
+**E4O1-Description**
+This is such a frustrating and dehumanizing process of explaining your disability and having someone look at you like either a) they don't believe you b) they are annoyed by you or c) they pity you.
+**E4O1-ChangePain**
+0
+**E4O1-ChangeSpoons**
+-10
+**E401-ChangeMoney**
+0
+**E401-RandomBool**
+0
+**E401-RandomPercentage**
+50
+**E401-NextID**
+36
+**E4O2-Name**
+No
+**E4O2-Description**
+You saved some energy but now you have to suck it up and work with the pain :(
+**E4O2-ChangePain**
+-10
+**E4O2-ChangeSpoons**
+0
+**E402-ChangeMoney**
+0
+**E402-RandomBool**
+0
+**E402-RandomPercentage**
+50
+**E402-NextID**
+72
+//E5-ID//
+36
+//E5-RandomBool//
+1
+//E5-Name//
+36
+//E5-Message//
+Let's roll the dice on whether they can accommodate you!
+//E5-NumOptions//
+2
+**E5O1-Name**
+Yes they can! This probably means pulling up a chair, letting you go first in line, or some other visible, often humiliating gesture. No pain though. 72
+**E5O1-Description**
+ 
+**E5O1-ChangePain**
+-5
+**E5O1-ChangeSpoons**
+0
+**E501-ChangeMoney**
+0
+**E501-RandomBool**
+1
+**E501-RandomPercentage**
+50
+**E501-NextID**
+72
+**E5O2-Name**
+As often the case, there's nothing they can do. These places are not built to accommodate people like you and workers are not trained on how to support people like you. Such is life. Take your pain.
+**E5O2-Description**
+ 
+**E5O2-ChangePain**
+-10
+**E5O2-ChangeSpoons**
+0
+**E502-ChangeMoney**
+0
+**E502-RandomBool**
+1
+**E502-RandomPercentage**
+50
+**E502-NextID**
+72
+//E6-ID//
+72
+//E6-RandomBool//
+0
+//E6-Name//
+72
+//E6-Message//
+Alright, what kind of food are you getting again?
+//E6-NumOptions//
+2
+**E6O1-Name**
+Something expensive that will feel good in your body
+**E6O1-Description**
+That's more money gone, but at least your body is feeling good!
+**E6O1-ChangePain**
+5
+**E6O1-ChangeSpoons**
+5
+**E601-ChangeMoney**
+-10
+**E601-RandomBool**
+0
+**E601-RandomPercentage**
+50
+**E601-NextID**
+-1
+**E6O2-Name**
+Something inexpensive that will feel less good in your body
+**E6O2-Description**
+Less money but it comes at a cost. Isn't it fun to be disabled and also have to worry about money?
+**E6O2-ChangePain**
+0
+**E6O2-ChangeSpoons**
+-5
+**E602-ChangeMoney**
+-5
+**E602-RandomBool**
+0
+**E602-RandomPercentage**
+50
+**E602-NextID**
+-1

@@ -1,0 +1,188 @@
+##EventsName##
+small_chore
+##NumEvents##
+4
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+Well, looks like you've got to do a small chore before you get on with the rest of your day. Which would you like to knock off your list?
+//E1-NumOptions//
+3
+**E1O1-Name**
+Do laundry
+**E1O1-Description**
+Your laundry machines are downstairs, so every load requires going up and down. You also have to pay for laundry.
+**E1O1-ChangePain**
+-10
+**E1O1-ChangeSpoons**
+-5
+**E101-ChangeMoney**
+-10
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+-1
+**E1O2-Name**
+Pick up a package
+**E1O2-Description**
+Nice, you've got something in the mail!
+**E1O2-ChangePain**
+0
+**E1O2-ChangeSpoons**
+0
+**E102-ChangeMoney**
+0
+**E102-RandomBool**
+0
+**E102-RandomPercentage**
+50
+**E102-NextID**
+9
+**E1O3-Name**
+Restock toiletries
+**E1O3-Description**
+Get yourself some soap!
+**E1O3-ChangePain**
+0
+**E1O3-ChangeSpoons**
+0
+**E103-ChangeMoney**
+0
+**E103-RandomBool**
+0
+**E103-RandomPercentage**
+50
+**E103-NextID**
+10
+//E2-ID//
+9
+//E2-RandomBool//
+0
+//E2-Name//
+9
+//E2-Message//
+You can either go to mail services or ask them to drop it off. Which one?
+//E2-NumOptions//
+2
+**E2O1-Name**
+Go to mail services
+**E2O1-Description**
+It's a long hike to mail services and there is no accesible entrence to the room.
+**E2O1-ChangePain**
+-10
+**E2O1-ChangeSpoons**
+0
+**E201-ChangeMoney**
+0
+**E201-RandomBool**
+0
+**E201-RandomPercentage**
+50
+**E201-NextID**
+18
+**E2O2-Name**
+Ask them to drop it off
+**E2O2-Description**
+This is a long and complicated process involving emails, phone calls, and missed drop-off times. Sorry :(
+**E2O2-ChangePain**
+0
+**E2O2-ChangeSpoons**
+-10
+**E202-ChangeMoney**
+0
+**E202-RandomBool**
+0
+**E202-RandomPercentage**
+50
+**E202-NextID
+-1
+//E3-ID//
+10
+//E3-RandomBool//
+0
+//E3-Name//
+10
+//E3-Message//
+You can either go on campus, which is more expensive, or go to the CVS in Davis square
+//E3-NumOptions//
+2
+**E3O1-Name**
+Go on campus
+**E3O1-Description**
+Convenient but oh so pricey. Also you still gotta walk.
+**E3O1-ChangePain**
+-5
+**E3O1-ChangeSpoons**
+0
+**E301-ChangeMoney**
+-10
+**E301-RandomBool**
+0
+**E301-RandomPercentage**
+50
+**E301-NextID**
+-1
+**E3O2-Name**
+Go to CVS
+**E3O2-Description**
+Yay, less expensive, but more pain sadly.
+**E3O2-ChangePain**
+-10
+**E3O2-ChangeSpoons**
+0
+**E302-ChangeMoney**
+-5
+**E302-RandomBool**
+0
+**E302-RandomPercentage**
+50
+**E302-NextID**
+-1
+//E4-ID//
+18
+//E4-RandomBool//
+0
+//E4-Name//
+18
+//E4-Message//
+Uh-oh, you forgot there's no seating while you wait for a package. Do you ask for a seat or just stand?
+//E4-NumOptions//
+2
+**E4O1-Name**
+Ask for a seat
+**E4O1-Description**
+Luckily, there are chairs further in the building that you can sit on. You do have to explain your injuy again though :(
+**E4O1-ChangePain**
+0
+**E4O1-ChangeSpoons**
+-5
+**E401-ChangeMoney**
+0
+**E401-RandomBool**
+0
+**E401-RandomPercentage**
+50
+**E401-NextID**
+-1
+**E4O2-Name**
+Just stand
+**E4O2-Description**
+Well you didn't have to explain your injury again thank god but that's gonna hurt a bit.
+**E4O2-ChangePain**
+-5
+**E4O2-ChangeSpoons**
+0
+**E402-ChangeMoney**
+0
+**E402-RandomBool**
+0
+**E402-RandomPercentage**
+50
+**E402-NextID**
+-1

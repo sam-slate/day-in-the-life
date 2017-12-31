@@ -1,0 +1,388 @@
+##EventsName##
+class
+##NumEvents##
+8
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+Time for class! Where is your class again?
+//E1-NumOptions//
+5
+**E1O1-Name**
+Eaton Hall
+**E1O1-Description**
+Ah yes, the hall that is currently falling apart because if Tufts actually fixed the building, they would be legally required to make it fully handicap accessible, which would be too expensive.
+**E1O1-ChangePain**
+0
+**E1O1-ChangeSpoons**
+0
+**E101-ChangeMoney**
+0
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+41
+**E1O2-Name**
+Haligan Hall
+**E1O2-Description**
+Oooh you're a coder! Well that will be a long walk no matter what. Lucky for you though, Haligan is one of the few academic buildings with an elevator!
+**E1O2-ChangePain**
+-5
+**E1O2-ChangeSpoons**
+0
+**E102-ChangeMoney**
+0
+**E102-RandomBool**
+0
+**E102-RandomPercentage**
+50
+**E102-NextID**
+42
+**E1O3-Name**
+Cabot Auditorium
+**E1O3-Description**
+Oh no, another uphill class :( No way around this one.
+**E1O3-ChangePain**
+-5
+**E1O3-ChangeSpoons**
+0
+**E103-ChangeMoney**
+0
+**E103-RandomBool**
+0
+**E103-RandomPercentage**
+50
+**E103-NextID**
+43
+**E1O4-Name**
+SciTech
+**E1O4-Description**
+Oof, so far away!
+**E1O4-ChangePain**
+0
+**E1O4-ChangeSpoons**
+0
+**E104-ChangeMoney**
+0
+**E104-RandomBool**
+0
+**E104-RandomPercentage**
+50
+**E104-NextID**
+44
+**E1O5-Name**
+Skip it!
+**E1O5-Description**
+Although it sounds good in theory, you will be stressing for the rest of the day about the material you missed and catching up.
+**E1O5-ChangePain**
+0
+**E1O5-ChangeSpoons**
+-10
+**E105-ChangeMoney**
+0
+**E105-RandomBool**
+0
+**E105-RandomPercentage**
+50
+**E105-NextID**
+-1
+//E2-ID//
+41
+//E2-RandomBool//
+0
+//E2-Name//
+41
+//E2-Message//
+Got it! Unforunately, Eaton is uphill. Would you like to walk directly uphill or take a longer path with an elevator?
+//E2-NumOptions//
+2
+**E2O1-Name**
+Walk directly uphill
+**E2O1-Description**
+Even if you go out of your way to find ramps, the walk uphill still takes a toll on your leg :(
+**E2O1-ChangePain**
+-10
+**E2O1-ChangeSpoons**
+0
+**E201-ChangeMoney**
+0
+**E201-RandomBool**
+0
+**E201-RandomPercentage**
+20
+**E201-NextID**
+411
+**E2O2-Name**
+Take longer path
+**E2O2-Description**
+Still a long walk but at least you don't have to go upstairs! Now you're a little late though, which adds some stress. 
+**E2O2-ChangePain**
+-5
+**E2O2-ChangeSpoons**
+-5
+**E202-ChangeMoney**
+0
+**E202-RandomBool**
+0
+**E202-RandomPercentage**
+50
+**E202-NextID
+411
+//E3-ID//
+42
+//E3-RandomBool//
+0
+//E3-Name//
+42
+//E3-Message//
+Will you have any reason to go into the extension?
+//E3-NumOptions//
+2
+**E3O1-Name**
+Yes
+**E3O1-Description**
+Unlucky for you, the Haligan extension is only accessible through stairs. This part of Haligan was supposed to be temporary, but 20 years later there's no end in sight.
+**E3O1-ChangePain**
+-5
+**E3O1-ChangeSpoons**
+0
+**E301-ChangeMoney**
+0
+**E301-RandomBool**
+0
+**E301-RandomPercentage**
+50
+**E301-NextID**
+421
+**E3O2-Name**
+No
+**E3O2-Description**
+Thank god! the Haligan extension is only accessible through stairs. This part of Haligan was supposed to be temporary, but 20 years later there's no end in sight. 
+**E3O2-ChangePain**
+0
+**E3O2-ChangeSpoons**
+0
+**E302-ChangeMoney**
+0
+**E302-RandomBool**
+0
+**E302-RandomPercentage**
+50
+**E302-NextID**
+421
+//E4-ID//
+43
+//E4-RandomBool//
+0
+//E4-Name//
+43
+//E4-Message//
+Where do you choose to sit?
+//E4-NumOptions//
+2
+**E4O1-Name**
+With your friends in the middle rows
+**E4O1-Description**
+Unforunately, there is no way to to get to the middle rows without walking up stairs at some point. All auditoriums at Tufts are like this.
+**E4O1-ChangePain**
+-5
+**E4O1-ChangeSpoons**
+0
+**E401-ChangeMoney**
+0
+**E401-RandomBool**
+0
+**E401-RandomPercentage**
+50
+**E401-NextID**
+-1
+**E4O2-Name**
+At the back of the auditorium
+**E4O2-Description**
+You don't have to go up and down stairs, but you can't sit with your friends and you can barely see the board. More spoons.
+**E4O2-ChangePain**
+0
+**E4O2-ChangeSpoons**
+-5
+**E402-ChangeMoney**
+0
+**E402-RandomBool**
+0
+**E402-RandomPercentage**
+50
+**E402-NextID**
+-1
+//E5-ID//
+44
+//E5-RandomBool//
+0
+//E5-Name//
+44
+//E5-Message//
+How on earth do you plan on getting there?
+//E5-NumOptions//
+2
+**E5O1-Name**
+Walk
+**E5O1-Description**
+Sorry, you're basically screwed. The walk is long and indirect.
+**E5O1-ChangePain**
+-15
+**E5O1-ChangeSpoons**
+0
+**E501-ChangeMoney**
+0
+**E501-RandomBool**
+0
+**E501-RandomPercentage**
+50
+**E501-NextID**
+-1
+**E5O2-Name**
+Take the shuttle
+**E5O2-Description**
+It takes a while, but you finally manage to nail down the schedule and get there in time. You still have to walk all the way to the shuttle stop though, which is across campus.
+**E5O2-ChangePain**
+-5
+**E5O2-ChangeSpoons**
+-5
+**E502-ChangeMoney**
+0
+**E502-RandomBool**
+0
+**E502-RandomPercentage**
+50
+**E502-NextID**
+-1
+//E6-ID//
+411
+//E6-RandomBool//
+0
+//E6-Name//
+411
+//E6-Message//
+You made it! You realize though that Eaton Hall has only one wheelchair accessible entrance, which is outfitted with a ramp and railings. It is also coincidentally the only entrance you are not allowed into (there's a sign that says employees only). Do you force your way through this entrance?
+//E6-NumOptions//
+2
+**E6O1-Name**
+Yes
+**E6O1-Description**
+You hold up a sign to the window of the door that says "Please let me in, my leg doesn't work" and wait until someone lets you in. Having to push that hard takes quite a few spoons, however.
+**E6O1-ChangePain**
+0
+**E6O1-ChangeSpoons**
+-10
+**E601-ChangeMoney**
+0
+**E601-RandomBool**
+0
+**E601-RandomPercentage**
+50
+**E601-NextID**
+4111
+**E6O2-Name**
+No
+**E6O2-Description**
+You walk up the stairs then, which adds to the pain.
+**E6O2-ChangePain**
+-5
+**E6O2-ChangeSpoons**
+0
+**E602-ChangeMoney**
+0
+**E602-RandomBool**
+0
+**E602-RandomPercentage**
+50
+**E602-NextID**
+4111
+//E7-ID//
+4111
+//E7-RandomBool//
+0
+//E7-Name//
+4111
+//E7-Message//
+Ok, you're in! What floor is your class on again?
+//E7-NumOptions//
+2
+**E7O1-Name**
+First floor
+**E7O1-Description**
+Thank god, no more stairs for you! Eaton does not have an elevator.
+**E7O1-ChangePain**
+0
+**E7O1-ChangeSpoons**
+0
+**E701-ChangeMoney**
+0
+**E701-RandomBool**
+0
+**E701-RandomPercentage**
+50
+**E701-NextID**
+-1
+**E7O2-Name**
+Any other floor
+**E7O2-Description**
+Eaton does not have an elevator. If you have a class on any other floor, you'll have to walk up stairs one way or another. In addition, many of the floors have random two-step staircases in the middle of the hallway! That means there are often stairs in between classrooms and bathrooms.
+**E7O2-ChangePain**
+-5
+**E7O2-ChangeSpoons**
+0
+**E702-ChangeMoney**
+0
+**E702-RandomBool**
+0
+**E702-RandomPercentage**
+50
+**E702-NextID**
+-1
+//E8-ID//
+421
+//E8-RandomBool//
+1
+//E8-Name//
+421
+//E8-Message//
+Time to head back! Let's roll the dice, will walk sign be on?
+//E8-NumOptions//
+2
+**E8O1-Name**
+Yes
+**E8O1-Description**
+Oh thank god, if walk sign wasn't on you'd have to stand and wait for a minute because there are no benches at the crosswalk. For many injuries, standing is worse than walking.  Still, the walk takes a toll. 
+**E8O1-ChangePain**
+-5
+**E8O1-ChangeSpoons**
+0
+**E801-ChangeMoney**
+0
+**E801-RandomBool**
+1
+**E801-RandomPercentage**
+50
+**E801-NextID**
+-1
+**E8O2-Name**
+No
+**E8O2-Description**
+Oh no! You will have to stand and wait for at least a minute because there are no benches at the crosswalk.  For many injuries, standing is worse than walking. That plus the walking takes a toll.
+**E8O2-ChangePain**
+-10
+**E8O2-ChangeSpoons**
+0
+**E802-ChangeMoney**
+0
+**E802-RandomBool**
+1
+**E802-RandomPercentage**
+50
+**E802-NextID**
+-1

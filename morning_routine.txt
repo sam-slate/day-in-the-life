@@ -1,0 +1,398 @@
+##EventsName##
+morning_routine
+##NumEvents##
+9
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+Good morning! It's another beautiful day to be disabled :) Shall we check our pain level?
+//E1-NumOptions//
+1
+**E1O1-Name**
+Sure!
+**E1O1-Description**
+It takes a lot of energy to keep track of your pain throughout the day and gauge your capabilities. Let's take away 20 spoons now for all the times you will check throughout the day.
+**E1O1-ChangePain**
+0
+**E1O1-ChangeSpoons**
+-20
+**E101-ChangeMoney**
+0
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+5
+//E2-ID//
+5
+//E2-RandomBool//
+1
+//E2-Name//
+5
+//E2-Message//
+Alright, roll the dice on your pain!
+//E2-NumOptions//
+3
+**E2O1-Name**
+You're feeling amazing and better than ever :) 
+**E2O1-Description**
+Thank god, because you have plenty to do today
+**E2O1-ChangePain**
+0
+**E2O1-ChangeSpoons**
+0
+**E201-ChangeMoney**
+0
+**E201-RandomBool**
+1
+**E201-RandomPercentage**
+20
+**E201-NextID**
+10
+**E2O2-Name**
+You're feeling iffy.
+**E2O2-Description**
+Not the best but not the worst. Let's take off 10 on your pain scale right off the bat.
+**E2O2-ChangePain**
+-10
+**E2O2-ChangeSpoons**
+0
+**E202-ChangeMoney**
+0
+**E202-RandomBool**
+1
+**E202-RandomPercentage**
+50
+**E202-NextID
+10
+**E2O3-Name**
+You're feeling absolutely terrible.
+**E2O3-Description**
+You know this will be a hard day for you pain. Let's take off 20 right off the bat. 
+**E2O3-ChangePain**
+-20
+**E2O3-ChangeSpoons**
+0
+**E203-ChangeMoney**
+0
+**E203-RandomBool**
+1
+**E203-RandomPercentage**
+30
+**E203-NextID
+10
+//E3-ID//
+10
+//E3-RandomBool//
+0
+//E3-Name//
+10
+//E3-Message//
+Shall you do your stretches now?
+//E3-NumOptions//
+2
+**E3O1-Name**
+Yes
+**E3O1-Description**
+
+**E3O1-ChangePain**
+0
+**E3O1-ChangeSpoons**
+0
+**E301-ChangeMoney**
+0
+**E301-RandomBool**
+0
+**E301-RandomPercentage**
+50
+**E301-NextID**
+20
+**E3O2-Name**
+No
+**E3O2-Description**
+
+**E3O2-ChangePain**
+0
+**E3O2-ChangeSpoons**
+0
+**E302-ChangeMoney**
+0
+**E302-RandomBool**
+0
+**E302-RandomPercentage**
+50
+**E302-NextID**
+40
+//E4-ID//
+20
+//E4-RandomBool//
+1
+//E4-Name//
+20
+//E4-Message//
+Let's roll the dice on whether or not the stretches help this morning!
+//E4-NumOptions//
+2
+**E4O1-Name**
+They worked!
+**E4O1-Description**
+Yay! Let's give you back 5 of your pain tolerance.
+**E4O1-ChangePain**
+5
+**E4O1-ChangeSpoons**
+0
+**E401-ChangeMoney**
+0
+**E401-RandomBool**
+1
+**E401-RandomPercentage**
+50
+**E401-NextID**
+40
+**E4O2-Name**
+Nope, not today, sorry.
+**E4O2-Description**
+If the stretches don't help, they'll just cause more pain. Take 5 off your pain.
+**E4O2-ChangePain**
+-5
+**E4O2-ChangeSpoons**
+0
+**E402-ChangeMoney**
+0
+**E402-RandomBool**
+1
+**E402-RandomPercentage**
+50
+**E402-NextID**
+40
+//E5-ID//
+40
+//E5-RandomBool//
+0
+//E5-Name//
+40
+//E5-Message//
+Alright, now that you are up, time for some decisions. Are you going to take a shower?
+//E5-NumOptions//
+2
+**E5O1-Name**
+Yes of course!
+**E5O1-Description**
+Sadly, the shower is on another floor so you'll have to walk upstairs.
+**E5O1-ChangePain**
+-5
+**E5O1-ChangeSpoons**
+0
+**E501-ChangeMoney**
+0
+**E501-RandomBool**
+0
+**E501-RandomPercentage**
+50
+**E501-NextID**
+80
+**E5O2-Name**
+Not today.
+**E5O2-Description**
+I respect the decision but you'll feel icky and dirty all day. That takes a toll.
+**E5O2-ChangePain**
+0
+**E5O2-ChangeSpoons**
+-5
+**E502-ChangeMoney**
+0
+**E502-RandomBool**
+0
+**E502-RandomPercentage**
+50
+**E502-NextID**
+160
+//E6-ID//
+80
+//E6-RandomBool//
+0
+//E6-Name//
+80
+//E6-Message//
+Are we thinking a quick short shower or a long relaxing one?
+//E6-NumOptions//
+2
+**E6O1-Name**
+Quick and short
+**E6O1-Description**
+Quick and short it is, which means you spend as little time standing up as possible. It doesn't feel as relaxing as it could though and you have to rush to keep the pain down.
+**E6O1-ChangePain**
+0
+**E6O1-ChangeSpoons**
+-5
+**E601-ChangeMoney**
+0
+**E601-RandomBool**
+0
+**E601-RandomPercentage**
+50
+**E601-NextID**
+160
+**E6O2-Name**
+Long and relaxing
+**E6O2-Description**
+You feel clean and well soothed, but the time on your feet adds to the pain :(
+**E6O2-ChangePain**
+-5
+**E6O2-ChangeSpoons**
+5
+**E602-ChangeMoney**
+0
+**E602-RandomBool**
+0
+**E602-RandomPercentage**
+50
+**E602-NextID**
+160
+//E7-ID//
+160
+//E7-RandomBool//
+0
+//E7-Name//
+160
+//E7-Message//
+Are we putting on clothes today?
+//E7-NumOptions//
+2
+**E7O1-Name**
+Yep I want to be clothed
+**E7O1-Description**
+That means lifting your legs up and into your clothes, which slightly adds to the pain.
+**E7O1-ChangePain**
+-3
+**E7O1-ChangeSpoons**
+0
+**E701-ChangeMoney**
+0
+**E701-RandomBool**
+0
+**E701-RandomPercentage**
+50
+**E701-NextID**
+320
+**E7O2-Name**
+Nope I want to be naked!
+**E7O2-Description**
+Sorry, clothes are required for leaving the building and leaving the building is required for being a real human :( 
+**E7O2-ChangePain**
+0
+**E7O2-ChangeSpoons**
+0
+**E702-ChangeMoney**
+0
+**E702-RandomBool**
+0
+**E702-RandomPercentage**
+50
+**E702-NextID**
+160
+//E8-ID//
+320
+//E8-RandomBool//
+0
+//E8-Name//
+320
+//E8-Message//
+What's the plan for breakfast?
+//E8-NumOptions//
+3
+**E8O1-Name**
+Cook something!
+**E8O1-Description**
+It definitely feels good to cook for yourself, but it requires standing up and moving around, which adds pain.
+**E8O1-ChangePain**
+-10
+**E8O1-ChangeSpoons**
+5
+**E801-ChangeMoney**
+0
+**E801-RandomBool**
+0
+**E801-RandomPercentage**
+50
+**E801-NextID**
+640
+**E8O2-Name**
+Buy something quick
+**E8O2-Description**
+You still have to walk to get the food, and it costs money 
+**E8O2-ChangePain**
+-5
+**E8O2-ChangeSpoons**
+0
+**E802-ChangeMoney**
+-5
+**E802-RandomBool**
+0
+**E802-RandomPercentage**
+50
+**E802-NextID**
+640
+**E8O3-Name**
+Skip it
+**E8O3-Description**
+That saves pain and money, but you feel hungry and distracted.
+**E8O3-ChangePain**
+0
+**E8O3-ChangeSpoons**
+-10
+**E803-ChangeMoney**
+0
+**E803-RandomBool**
+0
+**E803-RandomPercentage**
+50
+**E803-NextID**
+640
+//E9-ID//
+640
+//E9-RandomBool//
+0
+//E9-Name//
+640
+//E9-Message//
+Should you clean up your room and make the bed real quick before you leave?
+//E9-NumOptions//
+2
+**E9O1-Name**
+Yes
+**E9O1-Description**
+Having a clean room definitely adds to your mental state but it requires moving around and being on your feet.
+**E9O1-ChangePain**
+-5
+**E9O1-ChangeSpoons**
+5
+**E901-ChangeMoney**
+0
+**E901-RandomBool**
+0
+**E901-RandomPercentage**
+50
+**E901-NextID**
+-1
+**E9O2-Name**
+No
+**E9O2-Description**
+Having a messy room takes a lot away from your mental state, but at least you don't have to be up on your feet to clean. 
+**E9O2-ChangePain**
+0
+**E9O2-ChangeSpoons**
+-5
+**E902-ChangeMoney**
+0
+**E902-RandomBool**
+0
+**E902-RandomPercentage**
+50
+**E902-NextID**
+-1

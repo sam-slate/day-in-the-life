@@ -1,0 +1,172 @@
+##EventsName##
+free_time
+##NumEvents##
+4
+//E1-ID//
+4
+//E1-RandomBool//
+0
+//E1-Name//
+4
+//E1-Message//
+Ooh, looks like you have some extended free time. How would you like to spend it?
+//E1-NumOptions//
+3
+**E1O1-Name**
+Do homework
+**E1O1-Description**
+ 
+**E1O1-ChangePain**
+0
+**E1O1-ChangeSpoons**
+0
+**E101-ChangeMoney**
+0
+**E101-RandomBool**
+0
+**E101-RandomPercentage**
+50
+**E101-NextID**
+8
+**E1O2-Name**
+Meet up with your partner
+**E1O2-Description**
+ 
+**E1O2-ChangePain**
+0
+**E1O2-ChangeSpoons**
+0
+**E102-ChangeMoney**
+0
+**E102-RandomBool**
+0
+**E102-RandomPercentage**
+50
+**E102-NextID**
+9
+**E1O3-Name**
+Take a nap!
+**E1O3-Description**
+Yay naps! They take away some of the pain and keep you well rested :)
+**E1O3-ChangePain**
+5
+**E1O3-ChangeSpoons**
+10
+**E103-ChangeMoney**
+0
+**E103-RandomBool**
+0
+**E103-RandomPercentage**
+50
+**E103-NextID**
+-1
+//E2-ID//
+8
+//E2-RandomBool//
+0
+//E2-Name//
+8
+//E2-Message//
+Nice, look at you being so productive. Do you want to do work in your house or somewhere else?
+//E2-NumOptions//
+2
+**E2O1-Name**
+In house
+**E2O1-Description**
+You are productive but its draining having to work in the same place every day
+**E2O1-ChangePain**
+0
+**E2O1-ChangeSpoons**
+-5
+**E201-ChangeMoney**
+0
+**E201-RandomBool**
+0
+**E201-RandomPercentage**
+50
+**E201-NextID**
+-1
+**E2O2-Name**
+Somewhere else
+**E2O2-Description**
+A change is location is nice for your productivity level but takes some walking and no doubt some climbing
+**E2O2-ChangePain**
+-5
+**E2O2-ChangeSpoons**
+0
+**E202-ChangeMoney**
+0
+**E202-RandomBool**
+0
+**E202-RandomPercentage**
+50
+**E202-NextID
+-1
+//E3-ID//
+9
+//E3-RandomBool//
+0
+//E3-Name//
+9
+//E3-Message//
+Do you go to them or do they come to you?
+//E3-NumOptions//
+2
+**E3O1-Name**
+Go to them
+**E3O1-Description**
+Honorable but it takes money! And probably some pain along the way but we won't count that.
+**E3O1-ChangePain**
+0
+**E3O1-ChangeSpoons**
+0
+**E301-ChangeMoney**
+-10
+**E301-RandomBool**
+0
+**E301-RandomPercentage**
+50
+**E301-NextID**
+18
+**E3O2-Name**
+They come to you
+**E3O2-Description**
+Awww they are by far the sweetest and your are so lucky to have them in your life.
+**E3O2-ChangePain**
+0
+**E3O2-ChangeSpoons**
+0
+**E302-ChangeMoney**
+0
+**E302-RandomBool**
+0
+**E302-RandomPercentage**
+50
+**E302-NextID**
+18
+//E4-ID//
+18
+//E4-RandomBool//
+1
+//E4-Name//
+18
+//E4-Message//
+Let's roll the dice on how enjoyable your experience is with your partner!
+//E4-NumOptions//
+1
+**E4O1-Name**
+It's amazing
+**E4O1-Description**
+Just kidding, it will always be amazing spending time with your partner because that's what love is. Enjoy tons of spoons and even a bit less pain.
+**E4O1-ChangePain**
+10
+**E4O1-ChangeSpoons**
+30
+**E401-ChangeMoney**
+0
+**E401-RandomBool**
+1
+**E401-RandomPercentage**
+100
+**E401-NextID**
+-1
