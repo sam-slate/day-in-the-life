@@ -14,9 +14,7 @@ const int START_MONEY = 70;
 const int NUM_CLUSTERS = 8;
 
 const bool SLEEP = true;
-//const string CLUSTERS[NUM_CLUSTERS] = {"class", "free_time", "morning_routine", 
-//							"lunch", "doctor", "work", "free_time", 
-//							"dinner", "small_chore"};
+
 const string CLUSTERS[NUM_CLUSTERS] = {"morning_routine", "free_time", "work", "meal", "class", "moment_free_time", "small_chore", "doctor"};
 
 class Game {
