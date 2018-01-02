@@ -1,5 +1,5 @@
 # Day in the Life
-A text-based, choose-your-own-adventure game describing a day in in the life of someone with a physical disability.
+A text-based, choose-your-own-adventure game describing a day in in the life of someone with a physical disability. Playable here: https://repl.it/@samslate/dayinthelife
 
 ## About
 
@@ -9,7 +9,7 @@ I chose to use basic C++ classes with few added libraries in order to better hel
 
 I started from scratch in building the framework of a choose-your-own-adventure game. Since I wanted to be able to change the gameplay easily, I built out an abstract framework that can read in from information files the events and choices central the game. These information files are the .txt files.
 
-## Setup
+## Local Setup
 
 To set up on your computer, first download the ZIP of all of the files by clicking the green "Clone or download" button on the top right and selecting "Download ZIP"
 
