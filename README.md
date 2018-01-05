@@ -7,7 +7,7 @@ This game was created for a class on disability studies to demonstrate the diffi
 
 I chose to use basic C++ classes with few added libraries in order to better help the students I was TAing with their assignments. This limits the code in terms of how dynamic it can be but makes the classes simpler and easy to understand.
 
-I started from scratch in building the framework of a choose-your-own-adventure game. Since I wanted to be able to change the gameplay easily, I built out an abstract framework that can read in from information files the events and choices central the game. These information files are the .txt files.
+I started from scratch in building the framework of a choose-your-own-adventure game. Since I wanted to be able to change the gameplay easily, I built out an abstract framework that can read in from information files the events and choices central to the game. These information files are the .txt files.
 
 ## Local Setup
 
